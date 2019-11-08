@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "动态背景音乐",
+	"file" : "鬼刀漫画 风铃.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.1411764705882353 0.12549019607843137 0.12549019607843137"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Girls" ],
+	"title" : "鬼刀-北漠公主- 风铃",
+	"type" : "video",
+	"visibility" : "public"
+}
